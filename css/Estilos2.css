@@ -5,7 +5,7 @@
 	margin-top: 20px;
 	margin-bottom: 20px;
 	margin-left:  50px;
-	float: left; 
+	
 	text-align: center;
 	border: 5px solid #26B8B8;
 	background-color: #1F53B8
@@ -81,7 +81,7 @@
 	background-color: gray;
 }
 
-.caja14, .caja15 {
+.caja14 {
 	width: 150px;
 	height: 150px;
 	display: block;
@@ -97,7 +97,26 @@ div img{
 	margin: 30px 30px 30px 30px;
 
 }
+.t1 {
+	text-shadow: -5px 1px 5px #FD7908, 8px 8px 1px blue;
+}
+.caja15{
+	height: 200px;
+	width: 200px;
+	background-color: rgb(0, 0, 255);
+	
+}
+
+h2 {
+	text-shadow: 1px 1px 0px rgba(230,230, 230, 1),
+				 2px 2px 0px rgba(200, 200, 230, 1),
+				 3px 3px 0px rgba(180, 180, 230, 1),
+				 4px 4px 0px rgba(160, 160, 230, 1),
+				 5px 5px 0px rgba(0, 0, 0, 1),
+				 8px 8px 0px rgba(0, 0, 0, 0.5);
+font-size: 40px;
 
 
 
+}
 
