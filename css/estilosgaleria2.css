@@ -1,0 +1,43 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background-image: url('../img/ac.jpeg');
+	background-repeat: 
+}
+
+div {
+	height: 120px;
+	width: 120px;
+	margin-left: 50px;
+	float: left;
+	margin-bottom: 20px;
+	text-align: center;
+	padding: 20px;
+	margin-top: 20px;
+	background-color: #3DFF21;
+	border: 5px dotted #3020FF;
+}
+
+.t1{
+	background-image: url('../img/black_mantel.jpeg')
+}
+
+.t2 {
+	background-image: url('../img/black_mantel.jpeg');
+	background-clip: content-box; /** ocupar solamente el contenido y quitar el fondo**/
+}
+
+.t3 {
+	background-image: url('../img/black_mantel.jpeg');
+	background-size: 100% 100%;
+}
+
+.t4 {
+	background-image: url('../img/black_mantel.jpeg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-origin: content-box;
+}
