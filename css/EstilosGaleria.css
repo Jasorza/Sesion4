@@ -1,0 +1,21 @@
+*{
+	margin: 0px;
+	padding: 0px: ;
+	box-sizing: border-box;
+}
+
+.caja1, .caja2, .caja3, .caja4, .caja5, .caja6, .caja7, .caja8, .caja9, .caja10 {
+	display: block;
+	border: 3px solid #000000;
+	margin: 5px;
+	float: left;
+	height: 280px;
+	width: 250px;
+	background-color: white;
+
+}
+
+div img{
+	height: 240px;
+	margin: 15px ;
+}
