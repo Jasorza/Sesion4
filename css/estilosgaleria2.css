@@ -41,3 +41,30 @@ div {
 	background-size: 100% 100%;
 	background-origin: content-box;
 }
+
+.t5 {
+	background-image: url('../img/dh.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.t6 {
+	background-image: url('../img/dh.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-origin: content-box;
+}
+
+.t7 {
+	background-image: url('../img/dh_2.jpeg');
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.t8 {
+	background: #9c7bff; /* Old browsers */
+background: -moz-radial-gradient(center, ellipse cover, #9c7bff 0%, #8660f8 58%, #6c40ee 100%); /* FF3.6-15 */
+background: -webkit-radial-gradient(center, ellipse cover, #9c7bff 0%,#8660f8 58%,#6c40ee 100%); /* Chrome10-25,Safari5.1-6 */
+background: radial-gradient(ellipse at center, #9c7bff 0%,#8660f8 58%,#6c40ee 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9c7bff', endColorstr='#6c40ee',GradientType=1 ); /* IE6-9 fallback on horizontal gradient
+}
